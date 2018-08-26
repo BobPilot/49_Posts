@@ -1,0 +1,56 @@
+[
+  {"id": 1,
+    "title": "Title of post - 1",
+    "content": "What makes every American a typical one is a desire to get a well-paid job that will cover their credit card. A credit card is an indispensable part of life in America. In other words, any American knows that how he or she handles their credit card or cards, either will help them or haunt them for years.",
+    "author": "Author 1",
+    "dateCreated": "2018.11.23 00:05:00",
+    "tags": [
+      "tag1",
+      "tag3"
+    ],
+    "likes": 20,
+    "comments": [
+      {
+        "user": "username3",
+        "message": "comment 1",
+        "dateCreated": "2018.12.20 21:05:00",
+        "likes": "total likes"
+      },
+      {
+        "user": "username2",
+        "message": "comment 2",
+        "dateCreated": "2017.10.25 00:05:00",
+        "likes": "total likes"
+      }
+    ]},
+  {"id": 2,
+    "title": "Title - 2",
+    "content": "In the U.S. getting a card isn’t as hard as it used to be. Some companies now mail applications to high school students, rather than waiting for them to get into college. At their best credit cards allow their owners to reserve hotel rooms, rent cars and finance larger purchases over several months. At their worst, cards allow people with poor money management skills to get into a high-interest debt.",
+    "author": "Author 2",
+    "dateCreated": "2017.10.25 00:05:00",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "likes": 50,
+    "comments": [
+      {
+        "user": "username1",
+        "message": "comment 1",
+        "dateCreated": "2017.10.26 08:25:00",
+        "likes": "total likes"
+      },
+      {
+        "user": "username2",
+        "message": "comment 2",
+        "dateCreated": "2018.03.05 12:05:00",
+        "likes": "total likes"
+      },
+      {
+        "user": "username1",
+        "message": "comment 3",
+        "dateCreated": "2017.12.01 06:30:00",
+        "likes": "total likes"
+      }
+    ]}
+]
