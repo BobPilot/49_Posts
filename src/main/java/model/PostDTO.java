@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Objects;
 
 @JsonTypeInfo(use = Id.CLASS)
-public abstract class PostDTO {
+public class PostDTO {
 
     int id;
     String title;
